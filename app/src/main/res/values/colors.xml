@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00456d</color>
+    <color name="colorPrimaryDark">#012c46</color>
+    <color name="colorAccent">#D50000</color>
+    <color name="feed_bg">#edebed</color>
+    <color name="feed_item_bg">#ffffff</color>
+    <color name="feed_item_border">#c2c3c8</color>
+    <color name="blck">#000000</color>
+</resources>

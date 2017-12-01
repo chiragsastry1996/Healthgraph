@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1087108331381",
+    "project_id": "firebase-steamdata"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087108331381:android:89b13cea7e9037b2",
+        "android_client_info": {
+          "package_name": "com.acharya.healthgraph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087108331381-mvr31idvq5a9lnqfhrcm9l90br8m6aip.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1087108331381-bnvj74pm36hbitqmkigu8p9or87cv0uc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.acharya.healthgraph",
+            "certificate_hash": "93f7d32fdef2bb445f89a3d5ef7191e03b153700"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSnrOWGWrB0a6hIeQ7hIl9Rale2YEDou4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
